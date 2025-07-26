@@ -1,6 +1,7 @@
 # sql_projects
  relevant codes as well
  Recommendations
+
  1.Focus on Growing Markets:
 
  ⦁ Invest in marketing and logistics infrastructure in underpenetrated 
